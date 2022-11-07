@@ -35,6 +35,6 @@ public class Task1 { // пкм на файле - Refactor - Rename (то же с
         // boolean isActive = (boolean) code; - ошибка, byte нельзя приводить к boolean (несовместимы)
 
         int num = 63;
-        System.out.println((num/10) + (num % 10));
+        System.out.println((num / 10) + (num % 10));
     }
 }
